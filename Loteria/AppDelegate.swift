@@ -2,12 +2,13 @@
 //  AppDelegate.swift
 //  Loteria
 //
-//  Created by Emerson Torres on 31/12/23.
+//  Created by Intacta Engenharia on 30/01/21.
+//  Copyright © 2021 Emerson. All rights reserved.
 //
 
 import UIKit
 
-@main
+@UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
